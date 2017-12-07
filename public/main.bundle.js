@@ -22,7 +22,7 @@ webpackEmptyAsyncContext.id = "../../../../../src/$$_gendir lazy recursive";
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return BASE_URL; });
-var BASE_URL = 'https://35.197.27.210';
+var BASE_URL = 'http://35.197.27.210';
 //# sourceMappingURL=Base_route.js.map
 
 /***/ }),
